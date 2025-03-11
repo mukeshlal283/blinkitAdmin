@@ -1,0 +1,1 @@
+# This is clone app of blinkit for Admin where they can upload product image, set price, units etc. and it will show on user side app. 
