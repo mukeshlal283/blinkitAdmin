@@ -1,1 +1,3 @@
-# This is clone app of blinkit for Admin where they can upload product image, set price, units etc. and it will show on user side app. 
+# Blinkit Clone App (For Admin)
+
+### This is clone app of blinkit for Admin where they can upload product image, set price, units etc. and it will show on user side app. 
